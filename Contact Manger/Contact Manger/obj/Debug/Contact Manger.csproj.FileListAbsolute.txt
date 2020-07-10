@@ -1,0 +1,7 @@
+C:\Users\Patrikas\Desktop\Contact Manger\Contact Manger\bin\Debug\Contact Manger.exe.config
+C:\Users\Patrikas\Desktop\Contact Manger\Contact Manger\bin\Debug\Contact Manger.exe
+C:\Users\Patrikas\Desktop\Contact Manger\Contact Manger\bin\Debug\Contact Manger.pdb
+C:\Users\Patrikas\Desktop\Contact Manger\Contact Manger\obj\Debug\Contact Manger.csprojAssemblyReference.cache
+C:\Users\Patrikas\Desktop\Contact Manger\Contact Manger\obj\Debug\Contact Manger.csproj.CoreCompileInputs.cache
+C:\Users\Patrikas\Desktop\Contact Manger\Contact Manger\obj\Debug\Contact Manger.exe
+C:\Users\Patrikas\Desktop\Contact Manger\Contact Manger\obj\Debug\Contact Manger.pdb
